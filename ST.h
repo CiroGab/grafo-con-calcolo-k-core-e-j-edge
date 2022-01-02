@@ -1,5 +1,5 @@
-#ifndef ESAMEAPA_ST_H
-#define ESAMEAPA_ST_H
+#ifndef ST_H
+#define ST_H
 
 #define MAXC 10
 
